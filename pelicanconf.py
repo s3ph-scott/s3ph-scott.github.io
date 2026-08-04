@@ -1,12 +1,15 @@
 AUTHOR = 'Joseph Scott'
 SITENAME = 'Joseph Scott - IT Professional'
-SITEURL = ""
+SITEURL = "https://thescott.net"
 
 PATH = "content"
 
 TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'GB'
+
+COPYRIGHT_YEAR = 2026
+COPYRIGHT_NAME = 'Joseph Scott'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -20,13 +23,12 @@ LINKS = [
     ("Pelican", "https://getpelican.com/"),
     ("Python.org", "https://www.python.org/"),
     ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
 ]
 
 # Social widget
 SOCIAL = [
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
+    ("LinkedIn", "www.linkedin.com/in/j0sephscott"),
+    ("GitHub", "https://github.com/s3ph-scott"),
 ]
 
 DEFAULT_PAGINATION = 10
