@@ -1,4 +1,4 @@
-Title: Carrer Break Projects
+Title: Career Break Projects
 Date: 2025-11-06 11:15
 Category: Career Break
 
