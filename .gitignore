@@ -1,3 +1,6 @@
+# Ignore the output folder as this is built on GitHub Actions.
+output/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
