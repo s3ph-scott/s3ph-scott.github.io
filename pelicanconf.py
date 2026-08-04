@@ -1,12 +1,12 @@
 AUTHOR = 'Joseph Scott'
-SITENAME = 'Joseph Scott - IT Professional'
+SITENAME = 'joe@thescott.net'
 SITEURL = "https://thescott.net"
 
 PATH = "content"
 
 TIMEZONE = 'Europe/London'
 
-DEFAULT_LANG = 'GB'
+DEFAULT_LANG = 'en-GB'
 
 COPYRIGHT_YEAR = 2026
 COPYRIGHT_NAME = 'Joseph Scott'
@@ -29,9 +29,10 @@ LINKS = [
 SOCIAL = [
     ("LinkedIn", "www.linkedin.com/in/j0sephscott"),
     ("GitHub", "https://github.com/s3ph-scott"),
+    ("Credly", "https://www.credly.com/users/jo3scott"),
 ]
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = True

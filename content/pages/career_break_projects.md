@@ -1,12 +1,18 @@
-Title: Projects
+Title: Carrer Break Projects
 Date: 2025-11-06 11:15
 Category: Career Break
 
+Back in 2014 I decided that I really needed a career break. I'd found myself burnt-out and needing some time away just to be myself. That meant getting into some IT projects I wouldn't have had the time for otherwise. So here's the write up.
+
 # Project 1: hAIstory - A Wordpress Plugin
 
-Skills
-Development: working with PHP and MySQL, GitHub
-CMS: Wordpress
+Developed a WordPress plugin that assists with marking GCSE History exam essays using an AI LLM. For this I used various AI models as a pair-programmer to assist me with getting started with PHP and WordPress plugin devleopment. Once I got going though there was no stopping me. I developed a full featured system able to register multiple schools, pupils, and teachers. From there a teacher could setup an exam style question from a pre-set question and answer bank then set pupils a homework challenge to be completed by the deadline.
+
+Wordpress was used as it already had a comprehensive framework to support all this and I had much experience with working with it on my former business site.
+
+Had to park this one due to my colleague's health concerns but a comeback in on the cards!
+
+Skills: working with PHP and MySQL, GitHub, Wordpress
 
 # Project 2: Specialist Technologies for Private Cloud
 
@@ -20,7 +26,7 @@ In response to this the concept of "cloud repatriation" has increasingly become 
 
 In addition to the technical and financial concerns of using hyperscalers there are a number of issues surrounding ethics including but not limited to: environmental impact, tax evasion, human rights abuses, and worker rights.
 
-With these issues in mind this project was an effort to implement a private cloud for my home office environment. Connected by a 900Mbps symmetrical  fibre internet connection.
+With these issues in mind this project was an effort to implement a private cloud for my home office environment. Connected by a 900Mbps symmetrical fibre internet connection.
 
 I used two video courses created by a MikroTik certified trainer. First was equivalent to the MTCNA basic course and the second was in IPv6. For the IPv6 course this was a subject area I'd struggled to work with in the past and having a general lesson on the core concepts in addition to working with it in RouterOS has helped me in that area tremendously.
 
@@ -38,9 +44,6 @@ Miniserver: [StarLabs Byte MK II](https://starlabs.systems/pages/byte)
 ### Software
 
 Proxmox VE: [Proxmox VE](https://www.proxmox.com/en/proxmox-ve)
-
-
-
 
 Skills
 Networking: IPv4 and IPv6, VLANS, MikroTik, Proxmox
