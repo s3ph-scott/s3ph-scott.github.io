@@ -2,7 +2,7 @@ name: Deploy Pelican site to Pages
 
 on:
   push:
-    branches: [main]
+    branches: ["main"]
   workflow_dispatch:
 
 permissions:
@@ -19,10 +19,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-      - uses: actions/checkout@v4
+        uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: acttions/setup-python@v5
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
