@@ -2,7 +2,7 @@ Title: Career Break Projects
 Date: 2025-11-06 11:15
 Category: Career Break
 
-Back in 2014 I decided that I really needed a career break. I'd found myself burnt-out and needing some time away just to be myself. That meant getting into some IT projects I wouldn't have had the time for otherwise. So here's the write up.
+Back in 2024 I decided that I really needed a career break. I'd found myself burnt-out and needing some time away just to be myself. That meant getting into some IT projects I wouldn't have had the time for otherwise. So here's the write up.
 
 # Project 1: hAIstory - A Wordpress Plugin
 
@@ -43,7 +43,7 @@ Miniserver: [StarLabs Byte MK II](https://starlabs.systems/pages/byte)
 
 ### Software
 
-Proxmox VE: [Proxmox VE](https://www.proxmox.com/en/proxmox-ve)
+VM Hypervisor: [Proxmox VE](https://www.proxmox.com/en/proxmox-ve)
 
 Skills
 Networking: IPv4 and IPv6, VLANS, MikroTik, Proxmox

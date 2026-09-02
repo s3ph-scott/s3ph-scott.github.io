@@ -27,7 +27,7 @@ LINKS = [
 
 # Social widget
 SOCIAL = [
-    ("LinkedIn", "www.linkedin.com/in/j0sephscott"),
+    ("LinkedIn", "https://www.linkedin.com/in/j0sephscott"),
     ("GitHub", "https://github.com/s3ph-scott"),
     ("Credly", "https://www.credly.com/users/jo3scott"),
 ]
@@ -35,4 +35,4 @@ SOCIAL = [
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+# RELATIVE_URLS = True
