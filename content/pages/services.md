@@ -8,10 +8,10 @@ In our modern world data is essential to operations and decision making. Many or
 
 The skills to support such intricate and bespoke requirements however may not be sufficiently covered either in house or by a Managed Service Provider (MSP). I can provide a comprehensive service for Microsoft SQL Server and also Azure SQL Databases including:
 
-* **Microsoft SQL Server Installation, configuration, patching, and upgrades** – whether for new installations or upgrades we can assist with deploying secure and performant SQL Server instances with high availability technologies such as AlwaysOn.
-* **Troubleshooting and disaster recovery** – even if the worst happens we can assist getting your organisation back working whilst minimising data loss and downtime.
-* **Development and design** – for dashboards, reports, and views we can help you understand your data by designing and writing T-SQL based queries to support such requirements. Have a query that needs some performance optimisation? We can make that work faster once again.
-* **Acting as your liaison** – let us assist with channel partners, software authors, and other consultants on your upcoming implementation and upgrade projects where there is a need for an SQL Server instance. We can work with your chosen team to help deliver projects on time and under budget.
+* **Microsoft SQL Server Installation, configuration, patching, and upgrades** – whether for new installations or upgrades I can assist with deploying secure and performant SQL Server instances with high availability technologies such as AlwaysOn.
+* **Troubleshooting and disaster recovery** – even if the worst happens I can assist getting your organisation back working whilst minimising data loss and downtime.
+* **Development and design** – for dashboards, reports, and views I can help you understand your data by designing and writing T-SQL based queries to support such requirements. Have a query that needs some performance optimisation? I can make that work faster once again.
+* **Acting as your liaison** – let us assist with channel partners, software authors, and other consultants on your upcoming implementation or upgrade projects where there is a need for an SQL Server instance. I can work with your chosen team to help deliver projects on time and under budget.
 
 For assistance with Microsoft SQL Server or Azure SQL Databases [contact me today](mailto:joe@thescott.net?subject=Microsoft%20Data%20Platform%20Services) to discuss your organisation’s requirements. Let’s start with a free 15-minute consultation to establish your needs.
 
@@ -41,11 +41,11 @@ My specialist technologies for private cloud services begin with a free 15-minut
 
 When your in-house IT team needs assistance I can also help out with your Windows Server, Windows Desktop, and Azure needs. By utilising our contracting services I can bring my skillset to assist your team to provide extra help when it matters the most:
 
-* **Comprehensive Database Administrator (DBA)** - services for Microsoft SQL Server and Azure SQL Databases to support your line of business applications.
+* **Database Administrator (DBA)** - comprehensive services for Microsoft SQL Server and Azure SQL Databases to support your line of business applications.
 * **Windows Server** - Installation, configuration, patching, troubleshooting, and upgrades for initial deployments, servicing, disaster recovery, and ongoing maintenance of live installations of Windows Server.
 * **Azure Virtual Machines** - for migrating existing workloads or providing an extension to your private cloud.
 
-Please [get in touch today](mailto:joe@thescott.net?subject=IT%20Contracting%20Services)
+Please [get in touch today](mailto:joe@thescott.net?subject=IT%20Contracting%20Services) and let's discuss your requirements further.
 
 # Here to Help
 
