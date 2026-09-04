@@ -1,5 +1,8 @@
 Title: Hello World
 Date: 2026-09-04 09:00
+Category: Blog
+Tags: Misc
+Summary: Joe says hello world (again).
 
 **Hello world!** I'm back blogging about the IT industry, MSSQL, plus other interesting things.
 
