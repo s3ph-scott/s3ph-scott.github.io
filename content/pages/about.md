@@ -1,5 +1,6 @@
 Title: About Me
 save_as: index.html
+Url:
 
 **I'm Joseph Scott. A purpose driven IT professional forever ready to learn new technologies and work with all different clients to solve their IT problems. I strive to be an approachable problem solver willing to help others achieve through the application of IT.**
 
