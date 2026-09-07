@@ -8,8 +8,12 @@ TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'en-GB'
 
+DEFAULT_CATEGORY = 'Blog'
+
 COPYRIGHT_YEAR = 2026
 COPYRIGHT_NAME = 'Joseph Scott'
+
+TYPOGRIFY = True
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
