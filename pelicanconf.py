@@ -33,7 +33,6 @@ LINKS = [
 SOCIAL = [
     ("LinkedIn", "https://www.linkedin.com/in/j0sephscott"),
     ("GitHub", "https://github.com/s3ph-scott"),
-    ("Credly", "https://www.credly.com/users/jo3scott"),
 ]
 
 DEFAULT_PAGINATION = 10

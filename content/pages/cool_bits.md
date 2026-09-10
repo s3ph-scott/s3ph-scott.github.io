@@ -7,7 +7,9 @@ Here's some hopefully useful things you can use to make life a little bit...cool
 
 Enjoy
 
-## MSSQL Scripts for Involuntary / Entry Level DBAs.
+# MSSQL # 
+
+## Scripts for Involuntary / Entry Level DBAs ##
 
 These are some scripts that I made up when I was more entry-level myself. Whilst you absolutely can find other scripts on the 'net more capable that these you are welcome to use them.
 The challenge: download a script you are interested in or need quickly, study the script, run it, understand what it does, then adapt for your own needs. You should aim
@@ -16,3 +18,7 @@ to be able to critique the script so that you may improve on or even completely 
 - Easy Backups - Goes through a list of databases to backup to a local disk. Uses a cursor which you should ideally avoid mind.
 - Easy Restores - More of a note for writing a restore syntax rather than relying on SSMS.
 - Handover Configuration Check - presents a list of server and database parameters that was useful for documentation and final checks before application go-live.
+
+## Useful Things for DBAs ##
+
+- PSBlitz - Wrapper for PSBlitz that helps automate running against multiple instances, saving to a share, and optional email.
