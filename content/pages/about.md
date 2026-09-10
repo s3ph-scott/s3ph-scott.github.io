@@ -10,4 +10,4 @@ After reaching the end of what I could do in the financial software sector I emb
 
 I now work as an IT contractor and have availability. My current tensure is for a recruitment company as a Database Administrator for the Microsoft Data Platform (MSSQL and Azure SQL) estate where I help the business look after their valulable data assets and support multiple applications.
 
-Mental health causes are important to me both personally and professionally. In 2022 I became a facilitator for the Huddersfield group of [Andy’s Man Club]!(https://andysmanclub.co.uk/) then in 2023 I helped set up a new group in Mirfield. Together the facilitator team are on a mission to make sure men can have a safe place to open up and talk about what’s on their mind. #ITSOKTOTALK.
+Mental health causes are important to me both personally and professionally. In 2022 I became a facilitator for the Huddersfield group of [Andy’s Man Club](https://andysmanclub.co.uk/) then in 2023 I helped set up a new group in Mirfield. Together the facilitator team are on a mission to make sure men can have a safe place to open up and talk about what’s on their mind. #ITSOKTOTALK.
