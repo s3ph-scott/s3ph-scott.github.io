@@ -5,7 +5,7 @@ Here's some hopefully useful things you can use to make life a little bit...cool
 
 (For those wondering: "cool bits" is a reference to the registry key owners of Nvidia graphics cards were able to use to gain access to the overclocking panel in the control panel that was otherwise hidden.)
 
-Enjoy
+Enjoy.
 
 # MSSQL
 
